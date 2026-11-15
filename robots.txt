@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abdulrehman4438.github.io/uply-legal/sitemap.xml
